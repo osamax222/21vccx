@@ -187,7 +187,7 @@ client6.on('message', message => {
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Marceloo)
 
 client.on('message', message => {
-if (message.content === prefix+'fast') {
+if (message.content === prefix+'بلش ولاك') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 30000; x++) {
